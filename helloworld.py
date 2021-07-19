@@ -7,3 +7,4 @@ Description: In User Settings Edit
 FilePath: \test\helloworld.py
 '''
 print('hello world')
+print(1 + 2)
