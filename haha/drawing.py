@@ -1,14 +1,4 @@
-'''
-Author: your name
-Date: 2021-07-20 20:51:16
-LastEditTime: 2021-07-20 20:51:22
-LastEditors: your name
-Description: In User Settings Edit
-FilePath: \Github\haha\drawing.py
-'''
-'''
-`123`
-'''
+
 
 import sys
 from PyQt5.QtWidgets import *

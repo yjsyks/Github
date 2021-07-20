@@ -1,11 +1,4 @@
-'''
-Author: your name
-Date: 2021-07-06 08:49:04
-LastEditTime: 2021-07-17 22:37:37
-LastEditors: Please set LastEditors
-Description: In User Settings Edit
-FilePath: \WxPython\HYXY\Layout\栅格布局.py
-'''
+
 import sys
 import math
 from PyQt5.QtWidgets import *
